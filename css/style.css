@@ -13,10 +13,19 @@ body {
 }
 
 .margin {
-    padding: 2rem 0;
+    padding: 2rem 1rem;
 }
 
 .text {
     margin: 0.75rem 0;
     color: #FDF6F0;
+}
+
+#standings {
+    background-color: #58Faf4;
+}
+
+.bg-footer {
+    background-color: black;
+    color: #AAA;
 }
